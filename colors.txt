@@ -1,0 +1,4 @@
+Primary colors : #2D704A
+Footer bg color: #191921
+
+color: var(--secondary-color);

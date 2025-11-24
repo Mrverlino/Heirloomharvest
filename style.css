@@ -1,0 +1,335 @@
+:root{
+
+    --primary-color: #2D704A;
+    --footerbg-color: #191921;
+    --testimonial-color: #8F8F8F;
+
+    
+}
+
+
+
+ .bg-carousel-section {
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+}
+
+.bg-carousel-section .carousel {
+    z-index: 1;
+}
+
+.bg-carousel-section .content {
+    position: relative;
+    z-index: 5;
+    padding-top: 120px;
+}
+
+.object-fit-cover {
+    object-fit: cover;
+}
+
+.fimage{
+    border-radius: 10px;
+}
+
+.hcard:hover{
+    color: pink;
+}
+
+.values{
+    border: 1px solid #2D704A;
+    border-radius: 10px;
+}
+.products{
+    background-image: url(images/Heirloom-harvest-4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 2000px;
+    width: 100%;
+    
+}
+.pimage1{
+    border-radius: 5px;
+   margin-bottom: 100px;
+}
+.hubsection{
+    background-color: #E6EFEA;
+    height: 500px;
+    width: 100%;
+}
+
+.cproduction{
+    border: 2px solid #2D704A;
+    margin: 20px 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.ptext{
+    padding: 3px;
+   text-align: center;
+}
+.ihub{
+    border-radius: 5px;
+}
+
+.comi{
+        border-radius: 5px;
+}
+.comcard1{
+    background-color: #2D704A; 
+     border-radius: 5px;
+     height: 300px;
+     width: 300px;
+     padding: 20px;
+}
+
+.comcard2{
+    background-color: White; 
+     border-radius: 5px;
+     height: 300px;
+     width: 300px;
+     padding: 20px;
+     box-shadow: 2px 2px 2px 2px grey;
+}
+.comcard3{
+    
+      background-color: #2D704A; 
+     border-radius: 5px;
+     height: 300px;
+     width: 300px;
+     padding: 20px;
+}
+
+.comcard4{
+
+     background-color: White; 
+     border-radius: 5px;
+     height: 300px;
+     width: 300px;
+     padding: 20px;
+     box-shadow: 2px 2px 2px 2px grey;
+     
+}
+.comcard5{
+
+      background-color: #2D704A; 
+     border-radius: 5px;
+     height: 300px;
+     width: 300px;
+     padding: 20px;
+     
+}
+
+.comcard6{
+
+    background-color: White; 
+     border-radius: 5px;
+     height: 300px;
+     width: 300px;
+     padding: 20px;
+     box-shadow: 2px 2px 2px 2px grey;
+
+}
+
+/*   Shop section */ 
+
+.shopsection{
+    background-color: #E6EFEA;
+    height: 4000px;
+    width: 100%;
+}
+
+.farmpcard{
+
+    border: 4px solid #2D704A;
+    border-radius: 5px;
+     height: 400px;
+     width: 350px;
+      padding: 15px;
+      background-color: White;
+
+}
+.farmpcard2{
+
+ border: 4px solid #2D704A;
+    border-radius: 5px;
+     height: 400px;
+     width: 350px;
+      padding: 15px;
+      background-color: White;
+
+}
+.farmpcard3{
+border: 4px solid #2D704A;
+    border-radius: 5px;
+     height: 400px;
+     width: 350px;
+      padding: 15px;
+ background-color: White;
+
+}
+
+.farmpcard4{
+border: 4px solid #2D704A;
+    border-radius: 5px;
+     height: 400px;
+     width: 350px;
+      padding: 15px;
+ background-color: White;
+
+}
+.farmpcard4{
+border: 4px solid #2D704A;
+    border-radius: 5px;
+     height: 400px;
+     width: 350px;
+      padding: 15px;
+ background-color: White;
+
+}
+.farmpcard5{
+border: 4px solid #2D704A;
+    border-radius: 5px;
+     height: 400px;
+     width: 350px;
+      padding: 15px;
+ background-color: White;
+
+}
+.farmpcard6{
+border: 4px solid #2D704A;
+    border-radius: 5px;
+     height: 400px;
+     width: 350px;
+      padding: 15px;
+ background-color: White;
+
+}
+.farmpcard7{
+border: 4px solid #2D704A;
+    border-radius: 5px;
+     height: 400px;
+     width: 350px;
+      padding: 15px;
+ background-color: White;
+
+}
+.farmpcard8{
+border: 4px solid #2D704A;
+    border-radius: 5px;
+     height: 400px;
+     width: 350px;
+      padding: 15px;
+ background-color: White;
+
+}
+
+.farmpcard9{
+background: url('images/cropped-hierloom_harvest_logo.png');
+background-repeat:no-repeat;
+border: 4px solid #2D704A;
+    border-radius: 5px;
+     height: 400px;
+     width: 350px;
+      padding: 15px;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      
+     
+
+}
+
+/* Shop section */
+
+/* Testimonial section */
+
+.testcard{
+    
+    height: 200px;
+    width: 80%;
+    margin: 0 auto;
+  
+}
+
+.testcard2{
+    
+    height: 200px;
+    width: 80%;
+    margin-top: 400px;
+    
+  
+}
+.timage{
+    border-radius: 5px;
+}
+
+/* End of Testimonial section */
+
+/* Blog section */ 
+.blog{
+
+    margin-top: 400px;
+
+}
+
+.plink{
+    color: #000;
+}
+.p{
+    color: #AFAFAF;
+}
+.postcard{
+    //border: 2px solid grey;
+    box-shadow: 1px 2px 2px 3px grey;
+    border-radius: 5px;
+    padding: 5px;
+}
+.postcard2{
+
+    box-shadow: 1px 2px 2px 3px grey;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+/* End of Blog section */ 
+/*footer section */
+
+.footer{
+    background-color: #191921;
+    height: 1000px;
+}
+.fimg{
+    height:50px;
+    width: 100px;
+    padding: 10px;
+     
+}
+.fi{
+    background-color: White;
+    border-radius: 5px;
+}
+
+.line{
+    position: relative;
+  max-width: 500px;
+ // margin: 100px auto;
+  text-align: center;
+}
+.line:after{
+content:" ";
+  height: 1px;
+  width: 100%;
+  background: grey;
+  display: block;
+  position: absolute;
+  bottom: 30px;
+  right: 0;
+}
+.up{
+    
+    
+
+}
+/*end of footer */
