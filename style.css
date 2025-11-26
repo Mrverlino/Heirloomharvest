@@ -72,6 +72,10 @@
 .ihub{
     border-radius: 5px;
 }
+.hubimage{
+    height: 200px;
+    width: 100px;
+}
 
 .comi{
         border-radius: 5px;
